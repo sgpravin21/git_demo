@@ -1,4 +1,4 @@
 this is the file use to check the merge conflict
-this is line-1
+this is line-1 # this is updated by MC1
 this is line-2
 this is line-3
